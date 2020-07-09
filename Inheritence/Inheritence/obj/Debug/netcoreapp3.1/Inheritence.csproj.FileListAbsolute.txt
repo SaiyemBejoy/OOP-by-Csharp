@@ -1,0 +1,13 @@
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.exe
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.deps.json
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.json
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.dev.json
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.dll
+G:\C# projects\OOP\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.pdb
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfoInputs.cache
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfo.cs
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csproj.CoreCompileInputs.cache
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.dll
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.pdb
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.genruntimeconfig.cache
+G:\C# projects\OOP\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csprojAssemblyReference.cache
