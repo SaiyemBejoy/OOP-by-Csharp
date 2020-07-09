@@ -1,0 +1,13 @@
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+G:\C# projects\OOP\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+G:\C# projects\OOP\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
