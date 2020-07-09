@@ -1,0 +1,13 @@
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+G:\C# projects\OOP\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csprojAssemblyReference.cache
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+G:\C# projects\OOP\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
