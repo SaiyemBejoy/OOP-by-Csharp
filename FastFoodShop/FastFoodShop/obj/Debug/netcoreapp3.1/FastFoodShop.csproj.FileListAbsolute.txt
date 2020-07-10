@@ -1,0 +1,13 @@
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.exe
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.deps.json
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.runtimeconfig.json
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.runtimeconfig.dev.json
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.dll
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\bin\Debug\netcoreapp3.1\FastFoodShop.pdb
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.csprojAssemblyReference.cache
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.AssemblyInfoInputs.cache
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.AssemblyInfo.cs
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.csproj.CoreCompileInputs.cache
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.dll
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.pdb
+G:\C# projects\OOP\FastFoodShop\FastFoodShop\obj\Debug\netcoreapp3.1\FastFoodShop.genruntimeconfig.cache
